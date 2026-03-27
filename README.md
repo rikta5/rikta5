@@ -15,6 +15,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 📊 GitHub Stats
+
 ![](https://raw.githubusercontent.com/rikta5/rikta5/main/generated/overview.svg)
 ![](https://raw.githubusercontent.com/rikta5/rikta5/main/generated/languages.svg)
 
