@@ -14,13 +14,13 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 📊 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rikta5&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rikta5&theme=dark&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rikta5&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://raw.githubusercontent.com/rikta5/rikta5/main/generated/overview.svg)
-![](https://raw.githubusercontent.com/rikta5/rikta5/main/generated/languages.svg)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=rikta5&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 🔥 Contribution Streak
-![](https://raw.githubusercontent.com/rikta5/rikta5/main/generated/streak.svg)
-
-### 🐍 Contribution Snake
-![](https://raw.githubusercontent.com/rikta5/rikta5/output/github-contribution-grid-snake-dark.svg)
+---
+[![](https://visitcount.itsvg.in/api?id=rikta5&icon=0&color=9)](https://visitcount.itsvg.in)
